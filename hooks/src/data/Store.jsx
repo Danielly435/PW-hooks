@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 const contextoInicial = {
-    contextoNome: 'User',
+    contextoNome: 'Dany',
     contextoSenha: 123456
 }
 export const AppContexto = React.createContext(contextoInicial)
